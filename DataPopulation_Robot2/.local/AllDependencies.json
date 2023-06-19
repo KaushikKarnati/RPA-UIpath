@@ -20947,9 +20947,9 @@
     "restore": {
       "projectUniqueName": "DataPopulation_Robot2",
       "projectName": "DataPopulation_Robot2",
-      "projectPath": "\\\\Mac\\Home\\Documents\\RPA - Robots\\DataPopulation_Robot2\\.local",
+      "projectPath": "\\\\Mac\\Home\\Documents\\RPA-UIpath\\DataPopulation_Robot2\\.local",
       "packagesPath": "C:\\Users\\kaushik\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\RPA - Robots\\DataPopulation_Robot2\\.local"
+      "outputPath": "\\\\Mac\\Home\\Documents\\RPA-UIpath\\DataPopulation_Robot2\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
