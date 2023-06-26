@@ -20947,9 +20947,9 @@
     "restore": {
       "projectUniqueName": "weather update",
       "projectName": "weather update",
-      "projectPath": "\\\\Mac\\Home\\Documents\\RPA - Robots\\Weather_Update Robot 2\\weather update\\.local",
+      "projectPath": "\\\\Mac\\Home\\Documents\\RPA-UIpath\\Weather_Update Robot 2\\weather update\\.local",
       "packagesPath": "C:\\Users\\kaushik\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\RPA - Robots\\Weather_Update Robot 2\\weather update\\.local"
+      "outputPath": "\\\\Mac\\Home\\Documents\\RPA-UIpath\\Weather_Update Robot 2\\weather update\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
