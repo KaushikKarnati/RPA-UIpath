@@ -1,17 +1,19 @@
 {
-  "name": "Robot3_TheAutomationChallenge",
-  "projectId": "46976196-6d33-46b1-9083-49c29b04e4ec",
-  "description": "Captures datat into dynamic web environment",
+  "name": "Web Scrapping",
+  "projectId": "39614207-29f5-451a-ada8-dade41a48a42",
+  "description": "scraps data from the web and populated in a excel sheet",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.16.1]",
-    "UiPath.System.Activities": "[22.10.4]",
-    "UiPath.UIAutomation.Activities": "[22.10.3]"
+    "UiPath.Excel.Activities": "[2.21.0-preview]",
+    "UiPath.Mail.Activities": "[1.20.2]",
+    "UiPath.System.Activities": "[23.6.0-preview]",
+    "UiPath.Testing.Activities": "[23.6.0-preview]",
+    "UiPath.UIAutomation.Activities": "[23.6.1-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "22.4.3.0",
+  "studioVersion": "23.6.1.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -48,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "341eb6d3-bad4-4a60-99de-34a2ff79a1e3",
+      "uniqueId": "5c82bcc3-2dff-479c-8691-f8f2d7776419",
       "input": [],
       "output": []
     }
@@ -56,5 +58,5 @@
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Legacy"
+  "targetFramework": "Windows"
 }
