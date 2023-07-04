@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YBcuxqn9c3AIRekevPL6RvzbwH+HPlXaDPNTQbsd5//rFCp4UjqwNK4fMXV/fV59YYU0BsBavMGltr8jih6T7g==",
+  "dgSpecHash": "HIXyYW6eyLgFdosk2Qw3A1maXhDeGY0TyuR2fdZ2wR6cvwSpWawd53+8R7A8FIjf4oKW7DhS/MdTX3CasGs+jg==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Documents\\RPA-UIpath\\Web Scrapping\\.local\\",
+  "projectFilePath": "\\\\mac\\Home\\Documents\\RPA-UIpath\\Web Scrapping\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\kaushik\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\kaushik\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
